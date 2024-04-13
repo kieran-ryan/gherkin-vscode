@@ -3,11 +3,16 @@ const Mustache = require("mustache");
 const { dialects } = require("@cucumber/gherkin");
 
 function extractKeywords(dialects, ...properties) {
-  return Object.values(dialects)
-    .flatMap((dialect) => properties.flatMap((property) => dialect[property]))
-    .map((keyword) => keyword.trim())
-    .filter((keyword) => keyword !== "*")
-    .join("|");
+  return [
+    ...new Set(
+      Object.values(dialects)
+        .flatMap((dialect) =>
+          properties.flatMap((property) => dialect[property])
+        )
+        .map((keyword) => keyword.trim())
+        .filter((keyword) => keyword !== "*")
+    ),
+  ].join("|");
 }
 
 const featureNames = extractKeywords(dialects, "feature");
