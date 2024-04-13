@@ -7,38 +7,103 @@
 			<string>feature</string>
 		</array>
 		<key>firstLineMatch</key>
-		<string>기능|機能|功能|フィーチャ|خاصية|תכונה|Функціонал|Функция|Функционалност|Функционал|Свойство|Особина|Могућност|Özellik|Właściwość|Tính
-			năng|Trajto|Savybė|Požiadavka|Požadavek|Osobina|Ominaisuus|Omadus|OH
-			HAI|Mogućnost|Mogucnost|Jellemző|Fīča|Funzionalità|Funktionalitéit|Funktionalität|Funkcionalnost|Funkcionalitāte|Funcționalitate|Funcţionalitate|Functionaliteit|Functionalitate|Funcionalitat|Funcionalidade|Fonctionnalité|Fitur|Feature|Eiginleiki|Egenskap|Egenskab|Crikey|Característica|Arwedd|Ahoy
-			matey!(.*)</string>
+		<string>Funksie|Besigheid
+			Behoefte|Vermoë|Ֆունկցիոնալություն|Հատկություն|Caracteristica|خاصية|Carauterística|Özəllik|Функцыянальнасць|Фіча|Функционалност|Fungsi|Karakteristika|Característica|Funcionalitat|Požadavek|Arwedd|Egenskab|Funktionalität|Funktion|Δυνατότητα|Λειτουργία|📚|Feature|Business
+			Need|Ability|Feature|Pretty much|OH HAI|Hwaet|Hwæt|Ahoy matey!|This ain’t my first
+			rodeo|All gussied up|Trajto|Característica|Necesidad del
+			negocio|Requisito|Omadus|وِیژگی|Ominaisuus|Fonctionnalité|Gné|લક્ષણ|વ્યાપાર
+			જરૂર|ક્ષમતા|Característica|תכונה|रूप
+			लेख|Osobina|Mogućnost|Mogucnost|Karakteristik|Mak|Fonksyonalite|Jellemző|Fitur|Eiginleiki|Funzionalità|Esigenza
+			di
+			Business|Abilità|フィーチャ|機能|Fitur|თვისება|მოთხოვნა|ಹೆಚ್ಚಳ|기능|Savybė|Funktionalitéit|Funkcionalitāte|Fīča|Функционалност|Бизнис
+			потреба|Можност|Funkcionalnost|Biznis
+			potreba|Mozhnost|Функц|Функционал|सुविधा|विशेषता|Functionaliteit|Egenskap|ਖਾਸੀਅਤ|ਮੁਹਾਂਦਰਾ|ਨਕਸ਼
+			ਨੁਹਾਰ|Właściwość|Funkcja|Aspekt|Potrzeba
+			biznesowa|Funcionalidade|Característica|Caracteristica|Functionalitate|Funcționalitate|Funcţionalitate|Функция|Функциональность|Функционал|Свойство|Фича|Požiadavka|Funkcia|Vlastnosť|Funkcionalnost|Funkcija|Možnosti|Moznosti|Lastnost|Značilnost|Функционалност|Могућност|Особина|Funkcionalnost|Mogućnost|Mogucnost|Osobina|Egenskap|அம்சம்|வணிக
+			தேவை|திறன்|โครงหลัก|ความต้องการทางธุรกิจ|ความสามารถ|గుణము|Qap|Qu&#39;meH
+			&#39;ut|perbogh|poQbogh
+			malja&#39;|laH|Özellik|Мөмкинлек|Үзенчәлеклелек|Функціонал|صلاحیت|کاروبار کی
+			ضرورت|خصوصیت|Функционал|Tính năng|功能|സവിശേഷത|功能|वैशिष्ट्य|सुविधा|ስራ|የተፈለገው ስራ|የሚፈለገው
+			ድርጊት(.*)</string>
 		<key>foldingStartMarker</key>
-		<string>^\s*\b(예|시나리오
-			개요|시나리오|배경|背景|場景大綱|場景|场景大纲|场景|劇本大綱|劇本|例子|例|テンプレ|シナリオテンプレート|シナリオテンプレ|シナリオアウトライン|シナリオ|サンプル|سيناريو
-			مخطط|سيناريو|امثلة|الخلفية|תרחיש|תבנית
-			תרחיש|רקע|דוגמאות|Тарих|Сценарій|Сценарији|Сценарио|Сценарий
-			структураси|Сценарий|Структура сценарію|Структура сценарија|Структура
-			сценария|Скица|Рамка на
-			сценарий|Примеры|Примери|Пример|Приклади|Предыстория|Предистория|Позадина|Передумова|Основа|Мисоллар|Концепт|Контекст|Örnekler|Założenia|Yo-ho-ho|Wharrimean
-			is|Voorbeelden|Variantai|Tình huống|The thing of it
-			is|Tausta|Taust|Tapausaihio|Tapaus|Tapaukset|Szenariogrundriss|Szenario|Szablon
-			scenariusza|Stsenaarium|Struktura scenarija|Structură scenariu|Structura
-			scenariu|Skica|Skenario konsep|Skenario|Situācija|Shiver me timbers|Senaryo
-			taslağı|Senaryo|Scénář|Scénario|Schema dello scenario|Scenārijs pēc
-			parauga|Scenārijs|Scenár|Scenaro|Scenariusz|Scenariu|Scenarios|Scenariomall|Scenariomal|Scenario
-			Template|Scenario Outline|Scenario Amlinellol|Scenario|Scenarijus|Scenariji|Scenarijaus
-			šablonas|Scenarijai|Scenarij|Scenarie|Rerefons|Raamstsenaarium|Příklady|Példák|Príklady|Przykłady|Primjeri|Primeri|Primer|Pozadí|Pozadina|Pozadie|Plang
-			vum Szenario|Plan du scénario|Plan du Scénario|Piemēri|Pavyzdžiai|Paraugs|Osnova
-			scénáře|Osnova|Náčrt Scénáře|Náčrt Scenáru|Mate|MISHUN SRSLY|MISHUN|Lýsing Dæma|Lýsing
-			Atburðarásar|Kịch bản|Konturo de la
-			scenaro|Kontext|Konteksts|Kontekstas|Kontekst|Koncept|Khung tình huống|Khung kịch
-			bản|Juhtumid|Háttér|Heave to|Hannergrond|Grundlage|Geçmiş|Forgatókönyv
-			vázlat|Forgatókönyv|Fono|Exemplos|Exemples|Exemple|Exempel|Examples|Esquema do
-			Cenário|Esquema do Cenario|Esquema del escenario|Esquema de
-			l'escenari|Esempi|Escenario|Escenari|Enghreifftiau|Ekzemploj|Eksempler|Ejemplos|EXAMPLZ|Dữ
-			liệu|Dæmi|Dis is what went down|Dead men tell no
-			tales|Dasar|Contoh|Contexto|Contexte|Context|Contesto|Cobber|Cenário|Cenario|Cefndir|Bối
-			cảnh|Blokes|Beispiller|Beispiele|Bakgrunnur|Bakgrunn|Bakgrund|Baggrund|Background|B4|Atburðarásir|Atburðarás|Antecedents|Antecedentes|All
-			y'all|Achtergrond|Abstrakt Scenario|Abstract Scenario)</string>
+		<string>^\s*\b(Agtergrond|Regel|Voorbeeld|Situasie|Situasie
+			Uiteensetting|Voorbeelde|Կոնտեքստ|Rule|Օրինակ|Սցենար|Սցենարի
+			կառուցվացքը|Օրինակներ|Antecedents|Rule|Eixemplo|Caso|Esquema del
+			caso|Eixemplos|الخلفية|Rule|مثال|سيناريو|سيناريو
+			مخطط|امثلة|Antecedentes|Rule|Exemplo|Casu|Esbozu del
+			casu|Exemplos|Keçmiş|Kontekst|Rule|Nümunə|Ssenari|Ssenarinin
+			strukturu|Nümunələr|Кантэкст|Правілы|Сцэнарый|Cцэнар|Шаблон сцэнарыя|Узор
+			сцэнара|Прыклады|Предистория|Правило|Пример|Сценарий|Рамка на сценарий|Примери|Latar
+			Belakang|Rule|Senario|Situasi|Keadaan|Kerangka Senario|Kerangka Situasi|Kerangka
+			Keadaan|Garis Panduan
+			Senario|Contoh|Pozadina|Rule|Primjer|Scenariju|Scenario|Scenariju-obris|Scenario-outline|Primjeri|Rerefons|Antecedents|Rule|Exemple|Escenari|Esquema
+			de l&#39;escenari|Exemples|Pozadí|Kontext|Pravidlo|Příklad|Scénář|Náčrt Scénáře|Osnova
+			scénáře|Příklady|Cefndir|Rule|Enghraifft|Scenario|Scenario
+			Amlinellol|Enghreifftiau|Baggrund|Regel|Eksempel|Scenarie|Abstrakt
+			Scenario|Eksempler|Grundlage|Hintergrund|Voraussetzungen|Vorbedingungen|Rule|Regel|Beispiel|Szenario|Szenariogrundriss|Szenarien|Beispiele|Υπόβαθρο|Rule|Παράδειγμα|Σενάριο|Περιγραφή
+			Σεναρίου|Περίγραμμα
+			Σεναρίου|Παραδείγματα|Σενάρια|💤|Rule|🥒|📕|📖|📓|Background|Rule|Example|Scenario|Scenario
+			Outline|Scenario Template|Examples|Scenarios|Dis is what went down|Rule|The thing of it
+			is|Wharrimean is|Examples|First off|Rule|Awww, look mate|Reckon it&#39;s like|You&#39;ll
+			wanna|B4|Rule|MISHUN|MISHUN SRSLY|EXAMPLZ|Aer|Ær|Rule|Swa|Swa hwaer swa|Swa hwær swa|Se
+			the|Se þe|Se ðe|Yo-ho-ho|Rule|Heave to|Shiver me timbers|Dead men tell no tales|Lemme
+			tell y&#39;all a story|Rule|All hat and no cattle|Serious as a snake bite|Busy as a
+			hound in flea season|Now that&#39;s a story longer than a cattle drive in
+			July|Fono|Regulo|Ekzemplo|Scenaro|Kazo|Konturo de la
+			scenaro|Skizo|Kazo-skizo|Ekzemploj|Antecedentes|Regla|Regla de
+			negocio|Ejemplo|Escenario|Esquema del
+			escenario|Ejemplos|Taust|Reegel|Juhtum|Stsenaarium|Raamjuhtum|Raamstsenaarium|Juhtumid|زمینه|Rule|مثال|سناریو|الگوی
+			سناریو|نمونه
+			ها|Tausta|Rule|Tapaus|Tapausaihio|Tapaukset|Contexte|Règle|Exemple|Scénario|Plan du
+			scénario|Plan du Scénario|Exemples|Cúlra|Riail|Sampla|Cás|Cás
+			Achomair|Samplaí|બેકગ્રાઉન્ડ|Rule|ઉદાહરણ|સ્થિતિ|પરિદ્દશ્ય રૂપરેખા|પરિદ્દશ્ય
+			ઢાંચો|ઉદાહરણો|Contexto|Rule|Exemplo|Escenario|Esbozo do
+			escenario|Exemplos|רקע|כלל|דוגמא|תרחיש|תבנית
+			תרחיש|דוגמאות|पृष्ठभूमि|नियम|परिदृश्य|परिदृश्य
+			रूपरेखा|उदाहरण|Pozadina|Rule|Primjer|Scenarij|Skica|Koncept|Primjeri|Scenariji|Kontèks|Istorik|Rule|Senaryo|Plan
+			senaryo|Plan Senaryo|Senaryo deskripsyon|Senaryo Deskripsyon|Dyagram senaryo|Dyagram
+			Senaryo|Egzanp|Háttér|Szabály|Példa|Forgatókönyv|Forgatókönyv vázlat|Példák|Dasar|Latar
+			Belakang|Rule|Aturan|Skenario|Skenario konsep|Garis-Besar
+			Skenario|Contoh|Misal|Bakgrunnur|Rule|Atburðarás|Lýsing Atburðarásar|Lýsing
+			Dæma|Dæmi|Atburðarásir|Contesto|Regola|Esempio|Scenario|Schema dello
+			scenario|Esempi|背景|ルール|シナリオ|シナリオアウトライン|シナリオテンプレート|テンプレ|シナリオテンプレ|例|サンプル|Dasar|Rule|Skenario|Konsep
+			skenario|Conto|Contone|კონტექსტი|წესი|მაგალითად|მაგალითი|მაგ|სცენარი|სცენარის
+			ნიმუში|სცენარის
+			შაბლონი|ნიმუში|შაბლონი|მაგალითები|ಹಿನ್ನೆಲೆ|Rule|ಉದಾಹರಣೆ|ಕಥಾಸಾರಾಂಶ|ವಿವರಣೆ|ಉದಾಹರಣೆಗಳು|배경|Rule|시나리오|시나리오
+			개요|예|Kontekstas|Rule|Pavyzdys|Scenarijus|Scenarijaus
+			šablonas|Pavyzdžiai|Scenarijai|Variantai|Hannergrond|Rule|Beispill|Szenario|Plang vum
+			Szenario|Beispiller|Konteksts|Situācija|Rule|Piemērs|Scenārijs|Scenārijs pēc
+			parauga|Piemēri|Paraugs|Контекст|Содржина|Rule|Пример|Сценарио|На пример|Преглед на
+			сценарија|Скица|Концепт|Примери|Сценарија|Kontekst|Sodrzhina|Rule|Scenario|Na
+			primer|Pregled na scenarija|Skica|Koncept|Primeri|Scenaria|Агуулга|Rule|Сценар|Сценарын
+			төлөвлөгөө|Тухайлбал|पृष्ठभूमी|नियम|परिदृश्य|परिदृश्य
+			रूपरेखा|उदाहरण|उदाहरणहरु|Achtergrond|Regel|Voorbeeld|Scenario|Abstract
+			Scenario|Voorbeelden|Bakgrunn|Regel|Eksempel|Scenario|Scenariomal|Abstrakt
+			Scenario|Eksempler|ਪਿਛੋਕੜ|Rule|ਉਦਾਹਰਨ|ਪਟਕਥਾ|ਪਟਕਥਾ ਢਾਂਚਾ|ਪਟਕਥਾ ਰੂਪ
+			ਰੇਖਾ|ਉਦਾਹਰਨਾਂ|Założenia|Zasada|Reguła|Przykład|Scenariusz|Szablon
+			scenariusza|Przykłady|Contexto|Cenário de Fundo|Cenario de
+			Fundo|Fundo|Regra|Exemplo|Cenário|Cenario|Esquema do Cenário|Esquema do
+			Cenario|Delineação do Cenário|Delineacao do
+			Cenario|Exemplos|Cenários|Cenarios|Context|Rule|Exemplu|Scenariu|Structura
+			scenariu|Structură
+			scenariu|Exemple|Предыстория|Контекст|Правило|Пример|Сценарий|Структура сценария|Шаблон
+			сценария|Примеры|Pozadie|Rule|Príklad|Scenár|Náčrt Scenáru|Náčrt Scenára|Osnova
+			Scenára|Príklady|Kontekst|Osnova|Ozadje|Rule|Primer|Scenarij|Struktura
+			scenarija|Skica|Koncept|Oris
+			scenarija|Osnutek|Primeri|Scenariji|Контекст|Основа|Позадина|Правило|Пример|Сценарио|Пример|Структура
+			сценарија|Скица|Концепт|Примери|Сценарији|Kontekst|Osnova|Pozadina|Pravilo|Scenario|Primer|Struktura
+			scenarija|Skica|Koncept|Primeri|Scenariji|Bakgrund|Regel|Scenario|Abstrakt
+			Scenario|Scenariomall|Exempel|பின்னணி|Rule|உதாரணமாக|காட்சி|காட்சி சுருக்கம்|காட்சி
+			வார்ப்புரு|எடுத்துக்காட்டுகள்|காட்சிகள்|நிலைமைகளில்|แนวคิด|Rule|เหตุการณ์|สรุปเหตุการณ์|โครงสร้างของเหตุการณ์|ชุดของตัวอย่าง|ชุดของเหตุการณ์|నేపథ్యం|Rule|ఉదాహరణ|సన్నివేశం|కథనం|ఉదాహరణలు|mo&#39;|Rule|lut|lut
+			chovnatlh|ghantoH|lutmey|Geçmiş|Kural|Örnek|Senaryo|Senaryo
+			taslağı|Örnekler|Кереш|Rule|Сценарий|Сценарийның
+			төзелеше|Үрнәкләр|Мисаллар|Передумова|Rule|Приклад|Сценарій|Структура
+			сценарію|Приклади|پس منظر|Rule|منظرنامہ|منظر نامے کا
+			خاکہ|مثالیں|Тарих|Rule|Сценарий|Сценарий структураси|Мисоллар|Bối cảnh|Quy tắc|Tình
+			huống|Kịch bản|Khung tình huống|Khung kịch bản|Dữ
+			liệu|背景|Rule|规则|场景|剧本|场景大纲|剧本大纲|例子|പശ്ചാത്തലം|നിയമം|രംഗം|സാഹചര്യത്തിന്റെ
+			രൂപരേഖ|ഉദാഹരണങ്ങൾ|背景|Rule|場景|劇本|場景大綱|劇本大綱|例子|पार्श्वभूमी|नियम|परिदृश्य|परिदृश्य
+			रूपरेखा|उदाहरण|ቅድመ ሁኔታ|መነሻ|መነሻ ሀሳብ|ህግ|ምሳሌ|ሁናቴ|ሁናቴ ዝርዝር|ሁናቴ አብነት|ምሳሌዎች|ሁናቴዎች)</string>
 		<key>foldingStopMarker</key>
 		<string>^\s*$</string>
 		<key>keyEquivalent</key>
@@ -137,10 +202,24 @@
 					</dict>
 				</dict>
 				<key>match</key>
-				<string>^\s*(기능|機能|功能|フィーチャ|خاصية|תכונה|Функціонал|Функция|Функционалност|Функционал|Свойство|Особина|Могућност|Özellik|Właściwość|Tính
-					năng|Trajto|Savybė|Požiadavka|Požadavek|Osobina|Ominaisuus|Omadus|OH
-					HAI|Mogućnost|Mogucnost|Jellemző|Fīča|Funzionalità|Funktionalitéit|Funktionalität|Funkcionalnost|Funkcionalitāte|Funcționalitate|Funcţionalitate|Functionaliteit|Functionalitate|Funcionalitat|Funcionalidade|Fonctionnalité|Fitur|Feature|Eiginleiki|Egenskap|Egenskab|Crikey|Característica|Arwedd|Ahoy
-					matey!):(.*)\b</string>
+				<string>^\s*(Funksie|Besigheid
+					Behoefte|Vermoë|Ֆունկցիոնալություն|Հատկություն|Caracteristica|خاصية|Carauterística|Özəllik|Функцыянальнасць|Фіча|Функционалност|Fungsi|Karakteristika|Característica|Funcionalitat|Požadavek|Arwedd|Egenskab|Funktionalität|Funktion|Δυνατότητα|Λειτουργία|📚|Feature|Business
+					Need|Ability|Feature|Pretty much|OH HAI|Hwaet|Hwæt|Ahoy matey!|This ain’t my
+					first rodeo|All gussied up|Trajto|Característica|Necesidad del
+					negocio|Requisito|Omadus|وِیژگی|Ominaisuus|Fonctionnalité|Gné|લક્ષણ|વ્યાપાર
+					જરૂર|ક્ષમતા|Característica|תכונה|रूप
+					लेख|Osobina|Mogućnost|Mogucnost|Karakteristik|Mak|Fonksyonalite|Jellemző|Fitur|Eiginleiki|Funzionalità|Esigenza
+					di
+					Business|Abilità|フィーチャ|機能|Fitur|თვისება|მოთხოვნა|ಹೆಚ್ಚಳ|기능|Savybė|Funktionalitéit|Funkcionalitāte|Fīča|Функционалност|Бизнис
+					потреба|Можност|Funkcionalnost|Biznis
+					potreba|Mozhnost|Функц|Функционал|सुविधा|विशेषता|Functionaliteit|Egenskap|ਖਾਸੀਅਤ|ਮੁਹਾਂਦਰਾ|ਨਕਸ਼
+					ਨੁਹਾਰ|Właściwość|Funkcja|Aspekt|Potrzeba
+					biznesowa|Funcionalidade|Característica|Caracteristica|Functionalitate|Funcționalitate|Funcţionalitate|Функция|Функциональность|Функционал|Свойство|Фича|Požiadavka|Funkcia|Vlastnosť|Funkcionalnost|Funkcija|Možnosti|Moznosti|Lastnost|Značilnost|Функционалност|Могућност|Особина|Funkcionalnost|Mogućnost|Mogucnost|Osobina|Egenskap|அம்சம்|வணிக
+					தேவை|திறன்|โครงหลัก|ความต้องการทางธุรกิจ|ความสามารถ|గుణము|Qap|Qu&#39;meH
+					&#39;ut|perbogh|poQbogh
+					malja&#39;|laH|Özellik|Мөмкинлек|Үзенчәлеклелек|Функціонал|صلاحیت|کاروبار کی
+					ضرورت|خصوصیت|Функционал|Tính năng|功能|സവിശേഷത|功能|वैशिष्ट्य|सुविधा|ስራ|የተፈለገው
+					ስራ|የሚፈለገው ድርጊት):(.*)\b</string>
 			</dict>
 			<key>step_keyword</key>
 			<dict>
@@ -153,29 +232,48 @@
 					</dict>
 				</dict>
 				<key>match</key>
-				<string>^\s*(하지만|조건|먼저|만일|만약|단|그리고|그러면|那麼|那么|而且|當|当|前提|假設|假如|但是|但し|並且|もし|ならば|ただし|しかし|かつ|و
-					|متى |لكن |عندما |ثم |بفرض |اذاً |כאשר |וגם |בהינתן |אזי |אז |אבל |Якщо |Унда
-					|Тоді |Тогда |То |Та |Пусть |Припустимо, що |Припустимо |Онда |Но |Нехай |Лекин
-					|Коли |Когда |Когато |Када |Кад |К тому же |И |Задато |Задати |Задате |Если
-					|Допустим |Дано |Дадено |Ва |Бирок |Аммо |Али |Але |Агар |А також |А |І |Și |Şi
-					|Þá |Þegar |Étant donnés |Étant données |Étant donnée |Étant donné |És |wann
-					|ugeholl |mä |dann |awer |an |a |Zatati |Zakładając |Zadato |Zadate |Zadano
-					|Zadani |Zadan |Youse know when youse got |Youse know like when |Yna |Ya know
-					how |Ya gotta |Y |Wun |Wtedy |When y'all |When |Wenn |WEN |Và |Ve |Und |Un |Thì
-					|Then y'all |Then |Tapi |Tak |Tada |Tad |Så |Stel |Soit |Siis |Si |Sed |Se
-					|Quando |Quand |Quan |Pryd |Pokud |Pokiaľ |Però |Pero |Pak |Oraz |Onda |Ond
-					|Oletetaan |Og |Och |O zaman |Når |När |Niin |Nhưng |N |Mutta |Men |Mas |Maka
-					|Mając |Majd |Mais |Maar |Ma |Lorsque |Lorsqu'|Let go and haul |Kun |Kuid |Kui
-					|Khi |Keď |Ketika |Když |Kaj |Kai |Kada |Kad |Jeżeli |Jeśli |Ja |Ir |I CAN HAZ
-					|I |Ha |Givun |Givet |Given y'all |Given |Gitt |Gegeven |Gegeben sei |Gangway!
-					|Fakat |Eğer ki |Etant donnés |Etant données |Etant donnée |Etant donné |Et
-					|Então |Entonces |Entao |En |Ef |Eeldades |E |Duota |Dun |Donitaĵo |Donat
-					|Donada |Do |Diyelim ki |Dengan |Den youse gotta |De |Dați fiind |Daţi fiind
-					|Dato |Dati fiind |Dati |Date fiind |Date |Data |Dat fiind |Dar |Dann |Dan
-					|Dados |Dado |Dadas |Dada |DEN |Când |Cuando |Cho |Cept |Cand |Cal |But y'all
-					|But |Buh |Blimey! |Biết |Bet |BUT |Aye |Avast! |Atès |Atunci |Atesa |Anrhegedig
-					a |Angenommen |And y'all |And |An |Amikor |Amennyiben |Ama |Als |Alors |Allora
-					|Ali |Aleshores |Ale |Akkor |Adott |Aber |AN |A také |A |\* )</string>
+				<string>^\s*(Gegewe|Wanneer|Dan|En|Maar|Դիցուք|Եթե|Երբ|Ապա|Եվ|Բայց|Dau|Dada|Daus|Dadas|Cuan|Alavez|Allora|Antonces|Y|E|Pero|بفرض|متى|عندما|اذاً|ثم|و|لكن|Dáu|Dada|Daos|Daes|Cuando|Entós|Y|Ya|Peru|Tutaq
+					ki|Verilir|Əgər|Nə vaxt ki|O
+					halda|Və|Həm|Amma|Ancaq|Няхай|Дадзена|Калі|Тады|I|Ды|Таксама|Але|Інакш|Дадено|Когато|То|И|Но|Diberi|Bagi|Apabila|Maka|Kemudian|Dan|Tetapi|Tapi|Dato|Kada|Zatim|I|A|Ali|Donat|Donada|Atès|Atesa|Quan|Aleshores|Cal|I|Però|Pokud|Za
+					předpokladu|Když|Pak|A také|A|Ale|Anrhegedig
+					a|Pryd|Yna|A|Ond|Givet|Når|Så|Og|Men|Angenommen|Gegeben sei|Gegeben
+					seien|Wenn|Dann|Und|Aber|Δεδομένου|Όταν|Τότε|Και|Αλλά|😐|🎬|🙏|😂|😔|Given|When|Then|And|But|Givun|Youse
+					know when youse got|Wun|Youse know like when|Dun|Den youse
+					gotta|An|Buh|Y&#39;know|It&#39;s just unbelievable|But at the end of the day I
+					reckon|Too right|Yeah nah|I CAN
+					HAZ|WEN|DEN|AN|BUT|Thurh|Þurh|Ðurh|Bæþsealf|Bæþsealfa|Bæþsealfe|Ciricæw|Ciricæwe|Ciricæwa|Tha|Þa|Ða|Tha
+					the|Þa þe|Ða ðe|Ond|7|Ac|Gangway!|Blimey!|Let go and haul|Aye|Avast!|Fixin&#39;
+					to|All git out|Quick out of the chute|There’s no tree but bears some fruit|Come
+					hell or high water|Well now hold on, I&#39;ll you
+					what|Donitaĵo|Komence|Se|Do|Kaj|Sed|Dado|Dada|Dados|Dadas|Cuando|Entonces|Y|E|Pero|Eeldades|Kui|Siis|Ja|Kuid|با
+					فرض|هنگامی|آنگاه|و|اما|Oletetaan|Kun|Niin|Ja|Mutta|Soit|Sachant que|Sachant
+					qu&#39;|Sachant|Etant donné que|Etant donné qu&#39;|Etant donné|Etant
+					donnée|Etant donnés|Etant données|Étant donné que|Étant donné qu&#39;|Étant
+					donné|Étant donnée|Étant donnés|Étant
+					données|Quand|Lorsque|Lorsqu&#39;|Alors|Donc|Et que|Et qu&#39;|Et|Mais que|Mais
+					qu&#39;|Mais|Cuir i gcás go|Cuir i gcás nach|Cuir i gcás gur|Cuir i gcás
+					nár|Nuair a|Nuair nach|Nuair ba|Nuair nár|Ansin|Agus|Ach|આપેલ
+					છે|ક્યારે|પછી|અને|પણ|Dado|Dada|Dados|Dadas|Cando|Entón|Logo|E|Mais|Pero|בהינתן|כאשר|אז|אזי|וגם|אבל|अगर|यदि|चूंकि|जब|कदा|तब|तदा|और|तथा|पर|परन्तु|किन्तु|Zadan|Zadani|Zadano|Ukoliko|Kada|Kad|Onda|I|Ali|Sipoze|Sipoze
+					ke|Sipoze Ke|Lè|Le|Lè sa a|Le sa
+					a|Ak|Epi|E|Men|Amennyiben|Adott|Majd|Ha|Amikor|Akkor|És|De|Dengan|Diketahui|Diasumsikan|Bila|Jika|Ketika|Maka|Kemudian|Dan|Tapi|Tetapi|Ef|Þegar|Þá|Og|En|Dato|Data|Dati|Date|Quando|Allora|E|Ed|Ma|前提|もし|ならば|且つ|かつ|然し|しかし|但し|ただし|Nalika|Nalikaning|Manawa|Menawa|Njuk|Banjur|Lan|Tapi|Nanging|Ananging|მოცემული|მოცემულია|ვთქვათ|როდესაც|როცა|როგორც
+					კი|თუ|მაშინ|და|ასევე|მაგრამ|თუმცა|ನೀಡಿದ|ಸ್ಥಿತಿಯನ್ನು|ನಂತರ|ಮತ್ತು|ಆದರೆ|조건|먼저|만일|만약|그러면|그리고|하지만|단|Duota|Kai|Tada|Ir|Bet|ugeholl|wann|dann|an|a|awer|mä|Kad|Ja|Tad|Un|Bet|Дадено|Дадена|Кога|Тогаш|И|Но|Dadeno|Dadena|Koga|Togash|I|No|Өгөгдсөн
+					нь|Анх|Хэрэв|Тэгэхэд|Үүний
+					дараа|Мөн|Тэгээд|Гэхдээ|Харин|दिइएको|दिएको|यदि|जब|त्यसपछि|अनी|र|अनि|तर|Gegeven|Stel|Als|Wanneer|Dan|En|Maar|Gitt|Når|Så|Og|Men|ਜੇਕਰ|ਜਿਵੇਂ
+					ਕਿ|ਜਦੋਂ|ਤਦ|ਅਤੇ|ਪਰ|Zakładając|Mając|Zakładając,
+					że|Jeżeli|Jeśli|Gdy|Kiedy|Wtedy|Oraz|I|Ale|Dado|Dada|Dados|Dadas|Quando|Então|Entao|E|Mas|Date
+					fiind|Dat fiind|Dată fiind|Dati fiind|Dați fiind|Daţi
+					fiind|Cand|Când|Atunci|Si|Și|Şi|Dar|Допустим|Дано|Пусть|Когда|Если|То|Затем|Тогда|И|К
+					тому же|Также|Но|А|Иначе|Pokiaľ|Za predpokladu|Keď|Ak|Tak|Potom|A|A tiež|A
+					taktiež|A
+					zároveň|Ale|Dano|Podano|Zaradi|Privzeto|Ko|Ce|Če|Kadar|Nato|Potem|Takrat|In|Ter|Toda|Ampak|Vendar|За
+					дато|За дате|За дати|Када|Кад|Онда|И|Али|Za dato|Za date|Za
+					dati|Kada|Kad|Onda|I|Ali|Givet|När|Så|Och|Men|கொடுக்கப்பட்ட|எப்போது|அப்பொழுது|மேலும்|மற்றும்|ஆனால்|กำหนดให้|เมื่อ|ดังนั้น|และ|แต่|చెప్పబడినది|ఈ
+					పరిస్థితిలో|అప్పుడు|మరియు|కాని|ghu&#39; noblu&#39;|DaH ghu&#39;
+					bejlu&#39;|qaSDI&#39;|vaj|&#39;ej|latlh|&#39;ach|&#39;a|Diyelim ki|Eğer ki|O
+					zaman|Ve|Fakat|Ama|Әйтик|Әгәр|Нәтиҗәдә|Һәм|Вә|Ләкин|Әмма|Припустимо|Припустимо,
+					що|Нехай|Дано|Якщо|Коли|То|Тоді|І|А також|Та|Але|اگر|بالفرض|فرض
+					کیا|جب|پھر|تب|اور|لیکن|Belgilangan|Агар|Унда|Ва|Лекин|Бирок|Аммо|Biết|Cho|Khi|Thì|Và|Nhưng|假如|假设|假定|当|那么|而且|并且|同时|但是|നൽകിയത്|എപ്പോൾ|പിന്നെ|ഒപ്പം|പക്ഷേ|假如|假設|假定|當|那麼|而且|並且|同時|但是|जर|दिलेल्या
+					प्रमाणे|जेव्हा|मग|तेव्हा|आणि|तसेच|पण|परंतु|የተሰጠ|መቼ|ከዚያ|እና|ግን)</string>
 			</dict>
 			<key>feature_element_keyword</key>
 			<dict>
@@ -193,34 +291,90 @@
 					</dict>
 				</dict>
 				<key>match</key>
-				<string>^\s*(예|시나리오
-					개요|시나리오|배경|背景|場景大綱|場景|场景大纲|场景|劇本大綱|劇本|例子|例|テンプレ|シナリオテンプレート|シナリオテンプレ|シナリオアウトライン|シナリオ|サンプル|سيناريو
-					مخطط|سيناريو|امثلة|الخلفية|תרחיש|תבנית
-					תרחיש|רקע|דוגמאות|Тарих|Сценарій|Сценарији|Сценарио|Сценарий
-					структураси|Сценарий|Структура сценарію|Структура сценарија|Структура
-					сценария|Скица|Рамка на
-					сценарий|Примеры|Примери|Пример|Приклади|Предыстория|Предистория|Позадина|Передумова|Основа|Мисоллар|Концепт|Контекст|Örnekler|Założenia|Yo-ho-ho|Wharrimean
-					is|Voorbeelden|Variantai|Tình huống|The thing of it
-					is|Tausta|Taust|Tapausaihio|Tapaus|Tapaukset|Szenariogrundriss|Szenario|Szablon
-					scenariusza|Stsenaarium|Struktura scenarija|Structură scenariu|Structura
-					scenariu|Skica|Skenario konsep|Skenario|Situācija|Shiver me timbers|Senaryo
-					taslağı|Senaryo|Scénář|Scénario|Schema dello scenario|Scenārijs pēc
-					parauga|Scenārijs|Scenár|Scenaro|Scenariusz|Scenariu|Scenarios|Scenariomall|Scenariomal|Scenario
-					Template|Scenario Outline|Scenario
-					Amlinellol|Scenario|Scenarijus|Scenariji|Scenarijaus
-					šablonas|Scenarijai|Scenarij|Scenarie|Rerefons|Raamstsenaarium|Příklady|Példák|Príklady|Przykłady|Primjeri|Primeri|Primer|Pozadí|Pozadina|Pozadie|Plang
-					vum Szenario|Plan du scénario|Plan du Scénario|Piemēri|Pavyzdžiai|Paraugs|Osnova
-					scénáře|Osnova|Náčrt Scénáře|Náčrt Scenáru|Mate|MISHUN SRSLY|MISHUN|Lýsing
-					Dæma|Lýsing Atburðarásar|Kịch bản|Konturo de la
-					scenaro|Kontext|Konteksts|Kontekstas|Kontekst|Koncept|Khung tình huống|Khung
-					kịch bản|Juhtumid|Háttér|Heave to|Hannergrond|Grundlage|Geçmiş|Forgatókönyv
-					vázlat|Forgatókönyv|Fono|Exemplos|Exemples|Exemple|Exempel|Examples|Esquema do
-					Cenário|Esquema do Cenario|Esquema del escenario|Esquema de
-					l'escenari|Esempi|Escenario|Escenari|Enghreifftiau|Ekzemploj|Eksempler|Ejemplos|EXAMPLZ|Dữ
-					liệu|Dæmi|Dis is what went down|Dead men tell no
-					tales|Dasar|Contoh|Contexto|Contexte|Context|Contesto|Cobber|Cenário|Cenario|Cefndir|Bối
-					cảnh|Blokes|Beispiller|Beispiele|Bakgrunnur|Bakgrunn|Bakgrund|Baggrund|Background|B4|Atburðarásir|Atburðarás|Antecedents|Antecedentes|All
-					y'all|Achtergrond|Abstrakt Scenario|Abstract Scenario):(.*)</string>
+				<string>^\s*(Agtergrond|Regel|Voorbeeld|Situasie|Situasie
+					Uiteensetting|Voorbeelde|Կոնտեքստ|Rule|Օրինակ|Սցենար|Սցենարի
+					կառուցվացքը|Օրինակներ|Antecedents|Rule|Eixemplo|Caso|Esquema del
+					caso|Eixemplos|الخلفية|Rule|مثال|سيناريو|سيناريو
+					مخطط|امثلة|Antecedentes|Rule|Exemplo|Casu|Esbozu del
+					casu|Exemplos|Keçmiş|Kontekst|Rule|Nümunə|Ssenari|Ssenarinin
+					strukturu|Nümunələr|Кантэкст|Правілы|Сцэнарый|Cцэнар|Шаблон сцэнарыя|Узор
+					сцэнара|Прыклады|Предистория|Правило|Пример|Сценарий|Рамка на
+					сценарий|Примери|Latar Belakang|Rule|Senario|Situasi|Keadaan|Kerangka
+					Senario|Kerangka Situasi|Kerangka Keadaan|Garis Panduan
+					Senario|Contoh|Pozadina|Rule|Primjer|Scenariju|Scenario|Scenariju-obris|Scenario-outline|Primjeri|Rerefons|Antecedents|Rule|Exemple|Escenari|Esquema
+					de l&#39;escenari|Exemples|Pozadí|Kontext|Pravidlo|Příklad|Scénář|Náčrt
+					Scénáře|Osnova scénáře|Příklady|Cefndir|Rule|Enghraifft|Scenario|Scenario
+					Amlinellol|Enghreifftiau|Baggrund|Regel|Eksempel|Scenarie|Abstrakt
+					Scenario|Eksempler|Grundlage|Hintergrund|Voraussetzungen|Vorbedingungen|Rule|Regel|Beispiel|Szenario|Szenariogrundriss|Szenarien|Beispiele|Υπόβαθρο|Rule|Παράδειγμα|Σενάριο|Περιγραφή
+					Σεναρίου|Περίγραμμα
+					Σεναρίου|Παραδείγματα|Σενάρια|💤|Rule|🥒|📕|📖|📓|Background|Rule|Example|Scenario|Scenario
+					Outline|Scenario Template|Examples|Scenarios|Dis is what went down|Rule|The
+					thing of it is|Wharrimean is|Examples|First off|Rule|Awww, look mate|Reckon
+					it&#39;s like|You&#39;ll wanna|B4|Rule|MISHUN|MISHUN
+					SRSLY|EXAMPLZ|Aer|Ær|Rule|Swa|Swa hwaer swa|Swa hwær swa|Se the|Se þe|Se
+					ðe|Yo-ho-ho|Rule|Heave to|Shiver me timbers|Dead men tell no tales|Lemme tell
+					y&#39;all a story|Rule|All hat and no cattle|Serious as a snake bite|Busy as a
+					hound in flea season|Now that&#39;s a story longer than a cattle drive in
+					July|Fono|Regulo|Ekzemplo|Scenaro|Kazo|Konturo de la
+					scenaro|Skizo|Kazo-skizo|Ekzemploj|Antecedentes|Regla|Regla de
+					negocio|Ejemplo|Escenario|Esquema del
+					escenario|Ejemplos|Taust|Reegel|Juhtum|Stsenaarium|Raamjuhtum|Raamstsenaarium|Juhtumid|زمینه|Rule|مثال|سناریو|الگوی
+					سناریو|نمونه
+					ها|Tausta|Rule|Tapaus|Tapausaihio|Tapaukset|Contexte|Règle|Exemple|Scénario|Plan
+					du scénario|Plan du Scénario|Exemples|Cúlra|Riail|Sampla|Cás|Cás
+					Achomair|Samplaí|બેકગ્રાઉન્ડ|Rule|ઉદાહરણ|સ્થિતિ|પરિદ્દશ્ય રૂપરેખા|પરિદ્દશ્ય
+					ઢાંચો|ઉદાહરણો|Contexto|Rule|Exemplo|Escenario|Esbozo do
+					escenario|Exemplos|רקע|כלל|דוגמא|תרחיש|תבנית
+					תרחיש|דוגמאות|पृष्ठभूमि|नियम|परिदृश्य|परिदृश्य
+					रूपरेखा|उदाहरण|Pozadina|Rule|Primjer|Scenarij|Skica|Koncept|Primjeri|Scenariji|Kontèks|Istorik|Rule|Senaryo|Plan
+					senaryo|Plan Senaryo|Senaryo deskripsyon|Senaryo Deskripsyon|Dyagram
+					senaryo|Dyagram Senaryo|Egzanp|Háttér|Szabály|Példa|Forgatókönyv|Forgatókönyv
+					vázlat|Példák|Dasar|Latar Belakang|Rule|Aturan|Skenario|Skenario
+					konsep|Garis-Besar Skenario|Contoh|Misal|Bakgrunnur|Rule|Atburðarás|Lýsing
+					Atburðarásar|Lýsing
+					Dæma|Dæmi|Atburðarásir|Contesto|Regola|Esempio|Scenario|Schema dello
+					scenario|Esempi|背景|ルール|シナリオ|シナリオアウトライン|シナリオテンプレート|テンプレ|シナリオテンプレ|例|サンプル|Dasar|Rule|Skenario|Konsep
+					skenario|Conto|Contone|კონტექსტი|წესი|მაგალითად|მაგალითი|მაგ|სცენარი|სცენარის
+					ნიმუში|სცენარის
+					შაბლონი|ნიმუში|შაბლონი|მაგალითები|ಹಿನ್ನೆಲೆ|Rule|ಉದಾಹರಣೆ|ಕಥಾಸಾರಾಂಶ|ವಿವರಣೆ|ಉದಾಹರಣೆಗಳು|배경|Rule|시나리오|시나리오
+					개요|예|Kontekstas|Rule|Pavyzdys|Scenarijus|Scenarijaus
+					šablonas|Pavyzdžiai|Scenarijai|Variantai|Hannergrond|Rule|Beispill|Szenario|Plang
+					vum Szenario|Beispiller|Konteksts|Situācija|Rule|Piemērs|Scenārijs|Scenārijs pēc
+					parauga|Piemēri|Paraugs|Контекст|Содржина|Rule|Пример|Сценарио|На пример|Преглед
+					на сценарија|Скица|Концепт|Примери|Сценарија|Kontekst|Sodrzhina|Rule|Scenario|Na
+					primer|Pregled na
+					scenarija|Skica|Koncept|Primeri|Scenaria|Агуулга|Rule|Сценар|Сценарын
+					төлөвлөгөө|Тухайлбал|पृष्ठभूमी|नियम|परिदृश्य|परिदृश्य
+					रूपरेखा|उदाहरण|उदाहरणहरु|Achtergrond|Regel|Voorbeeld|Scenario|Abstract
+					Scenario|Voorbeelden|Bakgrunn|Regel|Eksempel|Scenario|Scenariomal|Abstrakt
+					Scenario|Eksempler|ਪਿਛੋਕੜ|Rule|ਉਦਾਹਰਨ|ਪਟਕਥਾ|ਪਟਕਥਾ ਢਾਂਚਾ|ਪਟਕਥਾ ਰੂਪ
+					ਰੇਖਾ|ਉਦਾਹਰਨਾਂ|Założenia|Zasada|Reguła|Przykład|Scenariusz|Szablon
+					scenariusza|Przykłady|Contexto|Cenário de Fundo|Cenario de
+					Fundo|Fundo|Regra|Exemplo|Cenário|Cenario|Esquema do Cenário|Esquema do
+					Cenario|Delineação do Cenário|Delineacao do
+					Cenario|Exemplos|Cenários|Cenarios|Context|Rule|Exemplu|Scenariu|Structura
+					scenariu|Structură
+					scenariu|Exemple|Предыстория|Контекст|Правило|Пример|Сценарий|Структура
+					сценария|Шаблон сценария|Примеры|Pozadie|Rule|Príklad|Scenár|Náčrt Scenáru|Náčrt
+					Scenára|Osnova
+					Scenára|Príklady|Kontekst|Osnova|Ozadje|Rule|Primer|Scenarij|Struktura
+					scenarija|Skica|Koncept|Oris
+					scenarija|Osnutek|Primeri|Scenariji|Контекст|Основа|Позадина|Правило|Пример|Сценарио|Пример|Структура
+					сценарија|Скица|Концепт|Примери|Сценарији|Kontekst|Osnova|Pozadina|Pravilo|Scenario|Primer|Struktura
+					scenarija|Skica|Koncept|Primeri|Scenariji|Bakgrund|Regel|Scenario|Abstrakt
+					Scenario|Scenariomall|Exempel|பின்னணி|Rule|உதாரணமாக|காட்சி|காட்சி
+					சுருக்கம்|காட்சி
+					வார்ப்புரு|எடுத்துக்காட்டுகள்|காட்சிகள்|நிலைமைகளில்|แนวคิด|Rule|เหตุการณ์|สรุปเหตุการณ์|โครงสร้างของเหตุการณ์|ชุดของตัวอย่าง|ชุดของเหตุการณ์|నేపథ్యం|Rule|ఉదాహరణ|సన్నివేశం|కథనం|ఉదాహరణలు|mo&#39;|Rule|lut|lut
+					chovnatlh|ghantoH|lutmey|Geçmiş|Kural|Örnek|Senaryo|Senaryo
+					taslağı|Örnekler|Кереш|Rule|Сценарий|Сценарийның
+					төзелеше|Үрнәкләр|Мисаллар|Передумова|Rule|Приклад|Сценарій|Структура
+					сценарію|Приклади|پس منظر|Rule|منظرنامہ|منظر نامے کا
+					خاکہ|مثالیں|Тарих|Rule|Сценарий|Сценарий структураси|Мисоллар|Bối cảnh|Quy
+					tắc|Tình huống|Kịch bản|Khung tình huống|Khung kịch bản|Dữ
+					liệu|背景|Rule|规则|场景|剧本|场景大纲|剧本大纲|例子|പശ്ചാത്തലം|നിയമം|രംഗം|സാഹചര്യത്തിന്റെ
+					രൂപരേഖ|ഉദാഹരണങ്ങൾ|背景|Rule|場景|劇本|場景大綱|劇本大綱|例子|पार्श्वभूमी|नियम|परिदृश्य|परिदृश्य
+					रूपरेखा|उदाहरण|ቅድመ ሁኔታ|መነሻ|መነሻ ሀሳብ|ህግ|ምሳሌ|ሁናቴ|ሁናቴ ዝርዝር|ሁናቴ
+					አብነት|ምሳሌዎች|ሁናቴዎች):(.*)</string>
 			</dict>
 			<key>scenario_outline_variable</key>
 			<dict>
